@@ -1,5 +1,5 @@
 package types
 
 type APIConfig struct {
-  // TODO: -1 Golang Type Support
+  // TODO: (LATER) Golang Type Support
 }
