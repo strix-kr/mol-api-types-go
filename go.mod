@@ -1,3 +1,3 @@
-module "https://github.com/strix-kr/mol-api-types-go"
+module "github.com/strix-kr/mol-api-types-go"
 
 go 1.12
